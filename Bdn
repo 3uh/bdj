@@ -8,7 +8,7 @@
 
 ob_start();
 
-$token = "854133569:AAEvAuQbeJW5Pw8T-Muno-ubFR4_fu2fSKw"; // توكن بوتك
+$token = "753297556:AAEd_MeO9TS8cDB1vpivXh7ufk2cCxsFnXU"; // توكن بوتك
 
 define('API_KEY',$token);
 
